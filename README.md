@@ -9,14 +9,7 @@ Aqui você vê meus projetos,sempre comitando meus novos conhecimentos, seja bem
 
 ### 🤖 languages ​​and technologies
 
-<img 
-    align="left" 
-    alt="CSS"
-    title="CSS" 
-    width="40px" 
-    style="padding-right: 10px; border-radius: 10px" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/2048px-Official_CSS_Logo.svg.png"
-/>
+
 <img 
     align="left" 
     alt="HTML" 
@@ -24,6 +17,15 @@ Aqui você vê meus projetos,sempre comitando meus novos conhecimentos, seja bem
     width="40px"
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/330px-HTML5_logo_and_wordmark.svg.png" 
+/>
+
+<img 
+    align="left" 
+    alt="CSS"
+    title="CSS" 
+    width="40px" 
+    style="padding-right: 10px; border-radius: 10px" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/2048px-Official_CSS_Logo.svg.png"
 />
 <img 
     align="left" 
