@@ -16,7 +16,7 @@ Aqui você vê meus projetos,sempre comitando meus novos conhecimentos, seja bem
     title="HTML"
     width="40px"
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/330px-HTML5_logo_and_wordmark.svg.png" 
+    src="https://cdn-icons-png.flaticon.com/512/3291/3291670.png" 
 />
 
 <img 
