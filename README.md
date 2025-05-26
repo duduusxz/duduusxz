@@ -12,20 +12,27 @@ Aqui você vê meus projetos,sempre comitando meus novos conhecimentos, seja bem
 
 <img 
     align="left" 
+    alt="Node" 
+    title="Node"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg" 
+/>
+<img 
+    align="left" 
     alt="JavaScript" 
     title="JavaScript"
     width="40px" 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" 
 />
-
 <img 
     align="left" 
-    alt="Node" 
-    title="Node"
+    alt="Python" 
+    title="Python"
     width="40px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg" 
+    style="padding-right: 10px;"
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" 
 />
 
 <img 
@@ -47,19 +54,29 @@ Aqui você vê meus projetos,sempre comitando meus novos conhecimentos, seja bem
 
 <img 
     align="left" 
+    alt="HTML" 
+    title="HTML"
+    width="40px" 
+    style="padding-right: 10px;"
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Css" 
+    title="Css"
+    width="40px" 
+    style="padding-right: 10px;"
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" 
+/>
+
+<img 
+    align="left" 
     alt="Git"
     title="Git" 
     width="40px" 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="40px" 
-    style="padding-right: 10px;"
-    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" 
 />
 
 
