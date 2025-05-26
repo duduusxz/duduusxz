@@ -15,7 +15,7 @@ Aqui você vê meus projetos,sempre comitando meus novos conhecimentos, seja bem
     alt="Node"
     title="Node" 
     width="40px" 
-    style="padding-right: 10px; border-radius: 10px" 
+    style="padding-right: 10px; border-radius: 10px"
     src="https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/nodejs-512.png" 
 />
 
