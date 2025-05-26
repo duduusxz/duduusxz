@@ -12,22 +12,6 @@ Aqui você vê meus projetos,sempre comitando meus novos conhecimentos, seja bem
 
 <img 
     align="left" 
-    alt="Java"
-    title="Java" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://skillicons.dev/icons?i=java"
-/>
-<img 
-    align="left" 
-    alt="Spring" 
-    title="Spring"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Spring-Dark.svg" 
-/>
-<img 
-    align="left" 
     alt="JavaScript" 
     title="JavaScript"
     width="40px" 
@@ -50,14 +34,7 @@ Aqui você vê meus projetos,sempre comitando meus novos conhecimentos, seja bem
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" 
 />
-<img 
-    align="left" 
-    alt="Postman" 
-    title="Postman"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Postman.svg" 
-/>
+
 <img 
     align="left" 
     alt="Git"
