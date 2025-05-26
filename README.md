@@ -49,7 +49,7 @@ Aqui você vê meus projetos,sempre comitando meus novos conhecimentos, seja bem
     title="Git" 
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://seeklogo.com/images/G/github-icon-logo-E5FF767098-seeklogo.com.png" 
+    src="https://miro.medium.com/v2/resize:fit:383/1*co_1qORNdM0PI1nvCp7Iig.png" 
 />
 
 <br clear="left"/>
