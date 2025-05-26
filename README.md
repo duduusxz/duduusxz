@@ -18,6 +18,16 @@ Aqui você vê meus projetos,sempre comitando meus novos conhecimentos, seja bem
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" 
 />
+
+<img 
+    align="left" 
+    alt="Node" 
+    title="Node"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3BJCUaAko_zjufh6UIDOEdBQZ8qgg0fIWwA&s" 
+/>
+
 <img 
     align="left" 
     alt="Php"
