@@ -49,7 +49,7 @@ Aqui você vê meus projetos,sempre comitando meus novos conhecimentos, seja bem
     title="Git" 
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" 
+    src="https://seeklogo.com/images/G/github-icon-logo-E5FF767098-seeklogo.com.png" 
 />
 
 <br clear="left"/>
