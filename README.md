@@ -52,13 +52,4 @@ Aqui você vê meus projetos,sempre comitando meus novos conhecimentos, seja bem
     src="https://miro.medium.com/v2/resize:fit:383/1*co_1qORNdM0PI1nvCp7Iig.png" 
 />
 
-<img 
-    align="left" 
-    alt="Git"
-    title="Git" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" 
-/>
-
 <br clear="left"/>
