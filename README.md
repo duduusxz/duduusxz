@@ -12,6 +12,15 @@ Aqui você vê meus projetos,sempre comitando meus novos conhecimentos, seja bem
 
 <img 
     align="left" 
+    alt="Node"
+    title="Node" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/nodejs-512.png" 
+/>
+
+<img 
+    align="left" 
     alt="HTML" 
     title="HTML"
     width="40px"
@@ -51,5 +60,6 @@ Aqui você vê meus projetos,sempre comitando meus novos conhecimentos, seja bem
     style="padding-right: 10px;" 
     src="https://miro.medium.com/v2/resize:fit:383/1*co_1qORNdM0PI1nvCp7Iig.png" 
 />
+
 
 <br clear="left"/>
