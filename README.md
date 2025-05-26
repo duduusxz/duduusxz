@@ -12,29 +12,19 @@ Aqui você vê meus projetos,sempre comitando meus novos conhecimentos, seja bem
 
 <img 
     align="left" 
-    alt="Node"
-    title="Node" 
+    alt="Java"
+    title="Java" 
     width="40px" 
-    style="padding-right: 10px; border-radius: 10px"
-    src="https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/nodejs-512.png" 
-/>
-
-<img 
-    align="left" 
-    alt="HTML" 
-    title="HTML"
-    width="40px"
     style="padding-right: 10px;" 
-    src="https://cdn-icons-png.flaticon.com/512/3291/3291670.png" 
+    src="https://skillicons.dev/icons?i=java"
 />
-
 <img 
     align="left" 
-    alt="CSS"
-    title="CSS" 
+    alt="Spring" 
+    title="Spring"
     width="40px" 
-    style="padding-right: 10px; border-radius: 10px" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/2048px-Official_CSS_Logo.svg.png"
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Spring-Dark.svg" 
 />
 <img 
     align="left" 
@@ -47,10 +37,26 @@ Aqui você vê meus projetos,sempre comitando meus novos conhecimentos, seja bem
 <img 
     align="left" 
     alt="Php"
-    title="Php"
+    title="Php" 
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://static-00.iconduck.com/assets.00/php-icon-256x256-oq5bc0bt.png" 
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PHP-Dark.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL"
+    title="MySQL" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Postman" 
+    title="Postman"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Postman.svg" 
 />
 <img 
     align="left" 
@@ -58,7 +64,15 @@ Aqui você vê meus projetos,sempre comitando meus novos conhecimentos, seja bem
     title="Git" 
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://miro.medium.com/v2/resize:fit:383/1*co_1qORNdM0PI1nvCp7Iig.png" 
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="40px" 
+    style="padding-right: 10px;"
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" 
 />
 
 
