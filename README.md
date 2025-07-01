@@ -1,6 +1,6 @@
 # Eduardo Ataíde
 
-**`Desenvolvedor Full-Steck`**
+**`Desenvolvedor Full-Stack`**
 
 Me chamo Eduardo, tenho 17 anos, sou natural de São Paulo (Brasil), e no momento estou cursando T.I na ETEC. Desde pequene sempre me interessei muito pelo meio tecnológico, e agora crescido, tenho a oprtunidade e aprender cada vez mais e mais. Aqui no meu github você irá encontrar projetos escolares e alguns projetos pessoais, para ser o meu portifólio profissional.
 Aqui você vê meus projetos,sempre comitando meus novos conhecimentos, seja bem vindo!
