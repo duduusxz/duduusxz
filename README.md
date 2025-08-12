@@ -1,4 +1,4 @@
-z# Eduardo Ataíde
+# Eduardo Ataíde
 
 **`Desenvolvedor Full-Stack`**
 
