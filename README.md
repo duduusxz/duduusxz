@@ -9,6 +9,16 @@ Aqui você vê meus projetos,sempre comitando meus novos conhecimentos, seja bem
 ### 🤖 languages ​​and technologies
 
 
+
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.worldvectorlogo.com/logos/react-1.svg" 
+/>
+
 <img 
     align="left" 
     alt="Node" 
@@ -24,23 +34,6 @@ Aqui você vê meus projetos,sempre comitando meus novos conhecimentos, seja bem
     width="40px" 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="40px" 
-    style="padding-right: 10px;"
-    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Php"
-    title="Php" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PHP-Dark.svg" 
 />
 <img 
     align="left" 
