@@ -15,7 +15,7 @@ Aqui você vê meus projetos,sempre comitando meus novos conhecimentos, seja bem
     alt="React"
     title="React" 
     width="40px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; border-radius: 10px" 
     src="https://cdn.worldvectorlogo.com/logos/react-1.svg" 
 />
 
