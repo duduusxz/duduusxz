@@ -3,26 +3,7 @@
 **`Full-Stack Developer`**
 
 Me chamo Eduardo Melo, tenho 17 anos e sou de São Pulo. Concluí o ensino médio na Etec MCM com o técnico em informática. Atualmente, estou matriculado em Análise e Desenvolvimento de Sistemas na USCS. Nõ vivo sem tecnologias e busco entrar o quanto antes no mercado de trabalho.
-<p align="left">
-    <a href="https://github.com/duduusxz?tab=repositories&sort=stargazers" 
-            style="border-radius: 8px;">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/duduusxz?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-            style="border-radius: 8px;"
-        />
-    </a>
-    <a href="https://github.com/duduusxz?tab=followers" 
-            style="border-radius: 8px;">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/duduusxz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-            style="border-radius: 8px;"
-        />
-    </a>
-</p>
+
 
 ---
 
