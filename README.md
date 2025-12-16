@@ -4,7 +4,8 @@
 
 Me chamo Eduardo Melo, tenho 17 anos e sou de São Pulo. Concluí o ensino médio na Etec MCM com o técnico em informática. Atualmente, estou matriculado em Análise e Desenvolvimento de Sistemas na USCS. Nõ vivo sem tecnologias e busco entrar o quanto antes no mercado de trabalho.
 <p align="left">
-    <a href="https://github.com/duduusxz?tab=repositories&sort=stargazers">
+    <a href="https://github.com/duduusxz?tab=repositories&sort=stargazers" 
+            style="border-radius: 8px">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
@@ -12,7 +13,8 @@ Me chamo Eduardo Melo, tenho 17 anos e sou de São Pulo. Concluí o ensino médi
             style="border-radius: 8px"
         />
     </a>
-    <a href="https://github.com/duduusxz?tab=followers">
+    <a href="https://github.com/duduusxz?tab=followers" 
+            style="border-radius: 8px">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
