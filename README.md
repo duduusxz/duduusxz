@@ -33,7 +33,7 @@ Me chamo Eduardo Melo, tenho 17 anos e sou de São Pulo. Concluí o ensino médi
     alt="HTML"
     title="HTML" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
@@ -41,7 +41,7 @@ Me chamo Eduardo Melo, tenho 17 anos e sou de São Pulo. Concluí o ensino médi
     alt="CSS" 
     title="CSS"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
@@ -49,7 +49,7 @@ Me chamo Eduardo Melo, tenho 17 anos e sou de São Pulo. Concluí o ensino médi
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
@@ -57,7 +57,7 @@ Me chamo Eduardo Melo, tenho 17 anos e sou de São Pulo. Concluí o ensino médi
     alt="React"
     title="React" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 <img 
@@ -65,7 +65,7 @@ Me chamo Eduardo Melo, tenho 17 anos e sou de São Pulo. Concluí o ensino médi
     alt="Java" 
     title="Java"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
@@ -73,7 +73,7 @@ Me chamo Eduardo Melo, tenho 17 anos e sou de São Pulo. Concluí o ensino médi
     alt="Git" 
     title="Git"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
