@@ -18,14 +18,15 @@ Me chamo Eduardo Melo, tenho 17 anos e sou de São Pulo. Concluí o ensino médi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>&nbsp;&nbsp;
 </p>
 
-### Statistics
-<p align="center">
+<p>
   <img
-    width="48%"
+    width="50%"
+    heigth="300px"
     src="https://github-readme-stats.vercel.app/api?username=duduusxz&show_icons=true&theme=github_dark&locale=pt-br"
   />
   <img
-    width="48%"
+    width="45%"
+    heigth="400px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=duduusxz&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </p>
