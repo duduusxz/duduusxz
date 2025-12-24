@@ -6,20 +6,6 @@ Me chamo Eduardo Melo, tenho 17 anos e sou de São Pulo. Concluí o ensino médi
 
 Atualmente estou focado nos estudos em Java com Spring para buscar mais conhecimento no back-end, para criar aplicações e resoluções de problemas reais.
 
-
-<hr>
-
-### Soft Skills
-
-<ul>
-  <li>Comunicação objetiva</li>
-  <li>Trabalho em equipe</li>
-  <li>Resolução de problemas</li>
-  <li>Adaptabilidade</li>
-</ul>
-
-<hr>
-
 ### Hard Skills
 <img 
   align="left" 
@@ -85,4 +71,15 @@ Atualmente estou focado nos estudos em Java com Spring para buscar mais conhecim
 />
 
 <br clear="left"/>
+
+
+
+### Soft Skills
+
+<ul>
+  <li>Comunicação objetiva</li>
+  <li>Trabalho em equipe</li>
+  <li>Resolução de problemas</li>
+  <li>Adaptabilidade</li>
+</ul>
 
