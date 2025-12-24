@@ -2,7 +2,7 @@
 
 **`Full-Stack Developer`**
 
-Me chamo Eduardo Melo, tenho 17 anos e sou de São Pulo. Concluí o ensino médio na Etec MCM com o técnico em informática. Atualmente, estou matriculado em Análise e Desenvolvimento de Sistemas na USCS. Nõ vivo sem tecnologias e busco entrar o quanto antes no mercado de trabalho.
+Me chamo Eduardo Melo, tenho 17 anos e sou de São Pulo. Concluí o ensino médio na Etec MCM com o técnico em informática. Atualmente, estou matriculado em Análise e Desenvolvimento de Sistemas na USCS. Não vivo sem tecnologias e busco entrar o quanto antes no mercado de trabalho.
 
 
 ---
@@ -20,10 +20,11 @@ Me chamo Eduardo Melo, tenho 17 anos e sou de São Pulo. Concluí o ensino médi
 
 <p>
   <img
-    width="50%"
     heigth="300px"
-    src="https://github-readme-stats.vercel.app/api?username=duduusxz&show_icons=true&theme=github_dark&locale=pt-br"
-  />
+  width="50%"
+  src="https://github-readme-stats.vercel.app/api?username=duduusxz&show_icons=true&theme=github_dark&locale=pt-br&cache_seconds=86400"
+/>
+
   <img
     width="45%"
     heigth="400px"
