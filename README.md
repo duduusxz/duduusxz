@@ -84,23 +84,5 @@ Atualmente estou focado nos estudos em Java com Spring para buscar mais conhecim
   src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" 
 />
 
-<img 
-  align="left" 
-  alt="CSS3"
-  title="CSS3" 
-  width="40px" 
-  style="padding-right: 10px;" 
-  src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" 
-/>
-
-<img 
-  align="left" 
-  alt="HTML5"
-  title="HTML5" 
-  width="40px" 
-  style="padding-right: 10px;" 
-  src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" 
-/>
-
 <br clear="left"/>
 
