@@ -4,6 +4,8 @@
 
 Me chamo Eduardo Melo, tenho 17 anos e sou de São Pulo. Concluí o ensino médio na Etec MCM com o técnico em informática. Atualmente, estou matriculado em Análise e Desenvolvimento de Sistemas na USCS. Não vivo sem tecnologias e busco entrar o quanto antes no mercado de trabalho.
 
+Atualmente estou focado nos estudos em Java com Spring para buscar mais conhecimento no back-end, para criar aplicações e resoluções de problemas reais.
+
 
 <hr>
 
@@ -23,12 +25,39 @@ Me chamo Eduardo Melo, tenho 17 anos e sou de São Pulo. Concluí o ensino médi
 ### Hard Skills
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" alt="Spring"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" alt="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+       style="background:#0d1117; padding:10px; border-radius:12px;"
+       width="40" alt="Java"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
+       style="background:#0d1117; padding:10px; border-radius:12px;"
+       width="40" alt="Spring"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+       style="background:#0d1117; padding:10px; border-radius:12px;"
+       width="40" alt="MySQL"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"
+       style="background:#0d1117; padding:10px; border-radius:12px;"
+       width="40" alt="Postman"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+       style="background:#0d1117; padding:10px; border-radius:12px;"
+       width="40" alt="Git"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+       style="background:#0d1117; padding:10px; border-radius:12px;"
+       width="40" alt="JavaScript"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+       style="background:#0d1117; padding:10px; border-radius:12px;"
+       width="40" alt="React"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+       style="background:#0d1117; padding:10px; border-radius:12px;"
+       width="40" alt="CSS"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+       style="background:#0d1117; padding:10px; border-radius:12px;"
+       width="40" alt="HTML"/>
 </p>
