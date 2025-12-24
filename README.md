@@ -14,24 +14,93 @@ Atualmente estou focado nos estudos em Java com Spring para buscar mais conhecim
 <ul>
   <li>Comunicação objetiva</li>
   <li>Trabalho em equipe</li>
-  <li>Organização e responsabilidade</li>
   <li>Resolução de problemas</li>
   <li>Adaptabilidade</li>
-  <li>Proatividade</li>
 </ul>
 
 <hr>
 
 ### Hard Skills
+<img 
+  align="left" 
+  alt="Java"
+  title="Java" 
+  width="40px" 
+  style="padding-right: 10px;" 
+  src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" 
+/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=ED8B00" />
-  <img src="https://img.shields.io/badge/Spring-0D1117?style=for-the-badge&logo=spring&logoColor=6DB33F" />
-  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-  <img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37" />
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
-</p>
+<img 
+  align="left" 
+  alt="Spring"
+  title="Spring" 
+  width="40px" 
+  style="padding-right: 10px;" 
+  src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg" 
+/>
+
+<img 
+  align="left" 
+  alt="MySQL"
+  title="MySQL" 
+  width="40px" 
+  style="padding-right: 10px;" 
+  src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" 
+/>
+
+<img 
+  align="left" 
+  alt="Postman"
+  title="Postman" 
+  width="40px" 
+  style="padding-right: 10px;" 
+  src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" 
+/>
+
+<img 
+  align="left" 
+  alt="Git"
+  title="Git" 
+  width="40px" 
+  style="padding-right: 10px;" 
+  src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" 
+/>
+
+<img 
+  align="left" 
+  alt="JavaScript"
+  title="JavaScript" 
+  width="40px" 
+  style="padding-right: 10px;" 
+  src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" 
+/>
+
+<img 
+  align="left" 
+  alt="React"
+  title="React" 
+  width="40px" 
+  style="padding-right: 10px;" 
+  src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" 
+/>
+
+<img 
+  align="left" 
+  alt="CSS3"
+  title="CSS3" 
+  width="40px" 
+  style="padding-right: 10px;" 
+  src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" 
+/>
+
+<img 
+  align="left" 
+  alt="HTML5"
+  title="HTML5" 
+  width="40px" 
+  style="padding-right: 10px;" 
+  src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" 
+/>
+
+<br clear="left"/>
+
