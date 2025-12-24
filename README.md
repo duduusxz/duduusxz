@@ -25,39 +25,13 @@ Atualmente estou focado nos estudos em Java com Spring para buscar mais conhecim
 ### Hard Skills
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-       style="background:#0d1117; padding:10px; border-radius:12px;"
-       width="40" alt="Java"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
-       style="background:#0d1117; padding:10px; border-radius:12px;"
-       width="40" alt="Spring"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-       style="background:#0d1117; padding:10px; border-radius:12px;"
-       width="40" alt="MySQL"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"
-       style="background:#0d1117; padding:10px; border-radius:12px;"
-       width="40" alt="Postman"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-       style="background:#0d1117; padding:10px; border-radius:12px;"
-       width="40" alt="Git"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-       style="background:#0d1117; padding:10px; border-radius:12px;"
-       width="40" alt="JavaScript"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-       style="background:#0d1117; padding:10px; border-radius:12px;"
-       width="40" alt="React"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-       style="background:#0d1117; padding:10px; border-radius:12px;"
-       width="40" alt="CSS"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-       style="background:#0d1117; padding:10px; border-radius:12px;"
-       width="40" alt="HTML"/>
+  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=ED8B00" />
+  <img src="https://img.shields.io/badge/Spring-0D1117?style=for-the-badge&logo=spring&logoColor=6DB33F" />
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
 </p>
