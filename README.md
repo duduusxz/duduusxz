@@ -29,14 +29,6 @@ Atualmente estou focado nos estudos em Análise de Dados com PostgresSQL, Python
 
 <img 
   align="left" 
-  alt="PostgresSQL"
-  title="PostgreSQL" 
-  width="40px" 
-  style="padding-right: 10px;" 
-/>
-
-<img 
-  align="left" 
   alt="Spring"
   title="Spring" 
   width="40px" 
