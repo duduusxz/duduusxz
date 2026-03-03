@@ -35,7 +35,14 @@ Atualmente estou focado nos estudos em Análise de Dados com PostgresSQL, Python
   style="padding-right: 10px;" 
 />
 
-<i class="fa-brands fa-postgresql"></i>
+<img 
+  align="left" 
+  alt="Spring"
+  title="Spring" 
+  width="40px" 
+  style="padding-right: 10px;" 
+  src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg" 
+/>
 
 <img 
   align="left" 
